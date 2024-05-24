@@ -39,7 +39,7 @@ function SliderItem(props) {
             </Box>
             <Box>
                 <Image src={props.image} alt="slide image" objectFit="cover" maxW={{ base: "500px", md: "500px", sm: "250px" }}
-                 />
+                />
             </Box>
         </Flex>
     )
